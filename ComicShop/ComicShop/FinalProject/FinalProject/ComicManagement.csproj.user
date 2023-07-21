@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\frmCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmCategoryManagemet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmHistoryOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmComicManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmInputNewPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmComic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMemberManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmOrdersDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
